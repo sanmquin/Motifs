@@ -1,0 +1,7 @@
+ARC-AGI-2-main.zip
+ARC-AGI-2-extracted/
+numeric_inference_outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.png
+*.json
