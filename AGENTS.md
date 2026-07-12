@@ -14,7 +14,7 @@ All Jupyter Notebooks (`.ipynb`) must adhere to the following structure:
 ### Technical Requirements
 -   **Colab Compatibility**: Include `google.colab.drive.mount` and handle environment-specific library installations (e.g., specific versions to avoid NumPy conflicts).
 -   **Programmatic Generation**: To avoid JSON syntax errors, notebooks should be generated or modified using Python scripts rather than manual text editing.
--   **Data Paths**: Use standardized paths within `/content/drive/MyDrive/numeric_inference_outputs/` for exports.
+-   **Data Paths**: Use standardized paths within `/content/drive/MyDrive/motifs/` for exports.
 
 ## Documentation and Research Papers
 
