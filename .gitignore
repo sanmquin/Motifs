@@ -1,0 +1,9 @@
+# Ignore python bytecode and local cache
+__pycache__/
+*.pyc
+
+# Ignore local output directory (including extracted ARC datasets)
+numeric_inference_outputs/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/

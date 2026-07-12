@@ -1,0 +1,10 @@
+{
+    "total_grids_analyzed": 9668,
+    "average_components_4_same": 16.14956557716177,
+    "average_components_8_same": 11.160426148117502,
+    "average_components_4_nonbg": 4.340711625982623,
+    "average_components_8_nonbg": 2.827161770790236,
+    "ratio_components_border_touching": 0.3858793872047007,
+    "median_component_size_8_same": 2.0,
+    "median_component_size_8_nonbg": 5.0
+}
