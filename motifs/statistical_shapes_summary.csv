@@ -1,2 +1,2 @@
-total_input_shapes,total_input_dotted,total_input_solid,dotted_to_solid,dotted_to_dotted,dotted_to_none,solidification_rate,chi2_stat,p_value,cramers_v
-12104,7200,4904,119,2213,4868,0.016527777777777777,3052.8878193099476,0.0,0.5022164866671869
+total_input_shapes,total_input_dotted,total_input_solid,dotted_to_solid,dotted_to_dotted,dotted_to_none,solidification_rate,mean_in_completeness,mean_out_completeness,mean_in_noisiness,mean_out_noisiness,wilcoxon_completeness_p,wilcoxon_noisiness_p,chi2_stat,p_value,cramers_v
+2042,1870,172,2,580,1288,0.0010695187165775401,0.7037319032727877,0.70698595506115,0.14308234554050317,0.1429709600807547,0.14200299005748956,0.3491633802772963,751.0368053852408,2.387607646494969e-165,0.6064608097023411
