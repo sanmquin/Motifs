@@ -20,7 +20,7 @@ All Jupyter Notebooks (`.ipynb`) must adhere to the following structure:
 
 -   **Style**: Research papers must follow a formal narrative academic style. Avoid bullet points in the main body.
 -   **Length**: Target 3,000 to 3,500 words for full research papers.
--   **Naming**: Follow the established numbering system for notebooks (e.g., `0.Data_cleaning.ipynb`, `1.Pipeline.ipynb`) to indicate sequence.
+-   **Naming**: Follow the established numbering system for notebooks (e.g., `0.Data_cleaning.ipynb`, `1.Pipeline.ipynb`) to indicate sequence. Research docs, and exported data share the numbers of its notebook of origin (when possible).
 
 ## Coding Practices
 
