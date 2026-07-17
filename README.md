@@ -34,9 +34,11 @@ Each file is structured as a dictionary where keys are unique Task IDs (e.g., `"
 -   **3.Combined_Feature_Clustering.ipynb**: Performs balanced, size-constrained clustering of the complete training corpus (all 1,000 puzzles, 8,616 matrices) on 22-dimensional connectivity embeddings. Ordered by exact Euclidean relevance distance.
 -   **4.Input_Output_Structural_Analysis.ipynb**: Performs systematic, comparative quantitative analysis of structural, geometric, and topological differences between input and output matrices across the ARC-AGI-2 corpus.
 -   **5.Feature_Dimensionality_Analysis.ipynb**: Systematically sweeps approximately 50 distinct dimensional sizes to locate optimal representational bottlenecks and analyze how over-parameterization/curse of dimensionality degrades performance.
+-   **6.Shape_Color_Transformation_Filtering.ipynb**: Filters structure-preserving input-output pairs and puzzles, extracts geometric properties of connected components, analyzes color change susceptibility, and performs statistical predictive modeling.
 
 ## Future Plans & TODOs
 
 -   [x] **DONE**: Focus the next notebooks on understanding the structural differences between input and output matrices.
 -   [x] **DONE**: Split and expand the clustering/feature dimensionality analysis on the complete training set.
 -   [ ] **TODO**: Conduct future analysis of statistical shapes based on the most common motifs discovered in the shape taxonomy.
+-   [ ] **TODO**: Include an analysis of regions and divided matrices in future investigations.
