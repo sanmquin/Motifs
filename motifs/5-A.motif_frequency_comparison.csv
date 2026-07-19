@@ -1,0 +1,9 @@
+Motif Type,Matrix Presence (%),Average Occurrence,Max Occurrence
+Lines,71.87,6.5829,144
+Diag Lines,54.39,8.7916,261
+Squares,56.65,72.8907,6312
+Rectangles,43.26,559.1621,117618
+Junctions L,77.88,32.5315,588
+Junctions T,55.88,26.1893,776
+Junctions Cross,44.86,37.6242,1399
+Junctions Total,79.32,96.3449,1842
