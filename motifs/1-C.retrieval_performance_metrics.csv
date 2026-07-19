@@ -1,0 +1,2 @@
+Metric,Value
+"['MRR', 'Top-1 Retrieval Rate', 'Top-5 Retrieval Rate', 'Top-10 Retrieval Rate']","[np.float64(0.470613119205035), np.float64(0.4144834404349975), np.float64(0.5242214532871973), np.float64(0.5750123578843302)]"
