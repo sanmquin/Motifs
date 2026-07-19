@@ -1,0 +1,4 @@
+Representation Space,MRR,Top-1 Accuracy,Top-5 Accuracy,Top-10 Accuracy
+Connectivity Baseline (22D),0.6833,0.497,0.9727,1.0
+Advanced Motifs Only (29D),0.6973,0.5152,0.9727,1.0
+Expanded Joint Embedding (51D),0.7128,0.5364,0.9788,1.0
