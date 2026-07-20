@@ -59,3 +59,4 @@ Rather than encoding isolated grids, our framework constructs joint features mod
 - [ ] **TODO: Expand Nested Color Hierarchies**: Model the color relationship of nested components (e.g., "color A inside color B") to handle specific containment rules.
 - [ ] **TODO: Integrate Dihedral Symmetric Normalization**: Standardize and canonicalize grid orientations using Dihedral $D_4$ symmetries before feature extraction to ensure absolute rotation and reflection invariance.
 - [ ] **TODO: Train Metric Learning Models**: Replace cosine similarity of standardized features with a learned metric distance (e.g., training a triplet Siamese Network) to specialize representations for task/puzzle retrieval.
+- [ ] **TODO: Export Matrix Embeddings**: Export the embedding representation of matrices, when combined with the base-22 dimension representation for individual matrices (inputs only).
