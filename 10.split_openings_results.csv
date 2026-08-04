@@ -1,0 +1,4 @@
+Subsystem,Metric Evaluated,Unseen Test Performance
+Model 1 (Hole Counter),Exact Match Hole Accuracy,100.00%
+Model 2 (Rule Allocator),Context Mapping Accuracy,100.00%
+Model 3 (Solution Reconstructor),Exact Grid Match Accuracy,100.00%
