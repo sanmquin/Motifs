@@ -1,0 +1,3 @@
+Task ID,Model Architecture,Metric Type,Test Score
+0a2355a6,Convolutional-Transformer Solver,Active Pixel Accuracy,71.26%
+0a2355a6,Convolutional-Transformer Solver,Exact Grid Match Accuracy,18.00%
